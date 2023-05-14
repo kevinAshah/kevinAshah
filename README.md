@@ -9,30 +9,12 @@
 ### My Skills
 
 <p align='left'>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  </a>&nbsp;&nbsp;
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  </a>&nbsp;&nbsp;  
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.tensorflow.org/?gclid=Cj0KCQjwuLShBhC_ARIsAFod4fIAd-_nAtjbeg8u6_T1qs48D1Am9UuGBCQKUUi1PZk3GVWdh-C1zpMaAqa6EALw_wcB">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://jupyter.org/">
-    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://opencv.org/">
-    <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>        
-  </a>&nbsp;&nbsp;  
-  <a href="https://numpy.org/">
-    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>        
-  </a>&nbsp;&nbsp; 
-  <a href="https://pandas.pydata.org/">
-    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>        
-  </a>&nbsp;&nbsp; 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> 
+[![Power BI](https://img.shields.io/badge/Power%20BI-%232F2F2F.svg?style=for-the-badge&logo=power-bi)](https://powerbi.microsoft.com/)
+[![MS Excel](https://img.shields.io/badge/MS%20Excel-%232F2F2F.svg?style=for-the-badge&logo=microsoft-excel)](https://www.microsoft.com/en-us/microsoft-365/excel)
 </p>
 
 ## Socials <br>
