@@ -1,8 +1,8 @@
 ## Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Kevin Shah <br>
 
-* 🎓 Junior undergraduate at IIT Gandhinagar.
-* 💻 Interested in machine learning and data science, with a particular focus on developing practical applications for these fields.
-* 🚀 Enjoys exploring the intersection of entrepreneurship and technology.
+* 🎓 Senior Undergraduate at IIT Gandhinagar.
+* 💻 Passionate about the powerful intersections of data, algorithms, and machine learning.
+* 🚀 With a specific focus on Time series analysis, Deep learning, and natural language processing(NLP), I am driven to unlock their transformative capabilities
 * 💡 Previously worked as a machine learning intern at Infyu Labs, where I gained experience in developing and implementing machine learning models for real-world problems.
 * 🤝 Always looking for opportunities to collaborate and learn from others in the tech community.
 
