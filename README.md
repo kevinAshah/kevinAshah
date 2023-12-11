@@ -22,5 +22,5 @@
 <a href="https://www.linkedin.com/in/-kevinshah/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <br> <br>
 <a href="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinAshah" />
-</a>&nbsp;&nbsp;
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinAshah" /> -->
+<!-- </a>&nbsp;&nbsp; -->
