@@ -4,6 +4,7 @@
 * 💻 Passionate about the powerful intersections of data, algorithms, and machine learning.
 * 🚀 With a specific focus on Time series analysis, Deep learning, and natural language processing(NLP), I am driven to unlock their transformative capabilities
 * 💡 Previously worked as a Machine learning intern at PUMA Group, where I gained experience in implementing Time Series Models for Forecasting business usecases.
+* 💡 I'm currently researching "LLM Alignment with Humans" to enhance AGI.
 * 🤝 Always looking for opportunities to collaborate and learn from others in the tech community.
 
 ### My Skills
