@@ -29,11 +29,3 @@ Technology changes.
 Engineering judgment compounds.
 
 I care about solving the right problems, choosing the right abstractions, and building systems that survive production—not just demos.
-
----
-
-Mumbai, India
-
-LinkedIn → https://linkedin.com/in/-kevinshah
-
-Portfolio → https://kevinashah.github.io
