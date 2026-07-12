@@ -2,55 +2,38 @@
 
 Building production AI systems.
 
-I enjoy designing systems where LLMs become reliable software rather than impressive demos.
+Software Engineer at Capillary Technologies, working on agentic AI infrastructure and developer tooling.
 
-Currently focused on
+I enjoy designing systems that are reliable, scalable, and simple—from LLM orchestration and context engineering to distributed systems and full-stack products.
 
-- Agentic AI
-- Developer Tools
-- LLM Infrastructure
-- Context Engineering
+## Current Interests
 
----
-
-## Current Work
-
-• Production AI at Capillary Technologies
-• Building orchestration layers for enterprise AI
-• Open-sourcing reusable agent frameworks
-
----
-
-## Featured Projects
-
-- Agent Framework: 
-Reusable infrastructure for building production AI agents.
-
-- Context Engineering: 
-Experiments around DSLs, structured reasoning and RAG.
-
-- Engineering Notes: 
-Architecture, production learnings and design writeups.
-
----
-
-## Tech I Enjoy
-
-Python • FastAPI • Redis • Kubernetes
-
-LLMs • RAG • MCP • Databricks
-
-Postgres • Supabase • Docker
-
----
-
-## Currently Exploring
-
-- Context Engineering
-- Multi-agent systems
+- Agentic Systems
 - AI Infrastructure
+- Developer Tools
+- Distributed Systems
+- Context Engineering
 - Open Source
 
+## Selected Work
+
+- Building production AI infrastructure at Capillary Technologies
+- Designing compiler-inspired abstractions for LLM systems
+- Developing reusable tooling for AI engineers
+- Building full-stack products from idea to production
+
+## Philosophy
+
+Technology changes.
+
+Engineering judgment compounds.
+
+I care about solving the right problems, choosing the right abstractions, and building systems that survive production—not just demos.
+
 ---
 
-Always happy to discuss engineering, AI systems and interesting ideas.
+Mumbai, India
+
+LinkedIn → https://linkedin.com/in/-kevinshah
+
+Portfolio → https://kevinashah.github.io
